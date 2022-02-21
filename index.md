@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Ismaninger Coding School
 
 You can use the [editor on GitHub](https://github.com/Ismaninger-Coding-School/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
