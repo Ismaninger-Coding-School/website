@@ -3,7 +3,8 @@
 # Kurse
 
 # Anmeldung
-##Voranmedung
+## Voranmedung
+## Registrierung
 
 # Info
 ## Deutsch
@@ -12,6 +13,9 @@
 
 # Galerie
 
-# About
+# About 
+## Die Tutoren
+
 
 # Impressum
+
