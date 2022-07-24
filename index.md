@@ -3,19 +3,19 @@
 # Kurse
 
 # Anmeldung
-## Voranmedung
-## Registrierung
+##### Voranmedung
+##### Registrierung
 
 # Info
-## Deutsch
-## English
-## Russian
+##### 🇩🇪 
+##### 🇬🇧 
+##### 🇷🇺 
 
 # Galerie
 
 # About 
-## Die Tutoren
-
+##### Die Tutoren
+##### Der Verein
 
 # Impressum
 
