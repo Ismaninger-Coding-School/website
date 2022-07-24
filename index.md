@@ -1,15 +1,17 @@
-# Ismaninger Coding School
-
 [Link to another page](./another-page.html)
 
-## Kurse
+# Kurse
 
-## Anmeldung
+# Anmeldung
+##Voranmedung
 
-## Info
+# Info
+## Deutsch
+## English
+## Russian
 
-## Galerie
+# Galerie
 
-## About
+# About
 
-## Impressum
+# Impressum
