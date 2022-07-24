@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Ismaninger Coding School
 description: Lerne programmieren und hab' Spass daran
+github:
+  is_project_page: false
