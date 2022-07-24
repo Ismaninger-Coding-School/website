@@ -1,5 +1,5 @@
 remote_theme: pages-themes/leap-day@v0.2.0
-title: Ismaninger Coding School
-description: Lerne programmieren und hab' Spass daran
+title: "Ismaninger Coding School"
+description: "Lerne programmieren und hab' Spass daran"
 github:
   is_project_page: false
